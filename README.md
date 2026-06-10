@@ -1,16 +1,20 @@
-## Hi there 👋
+# Здравствуйте, я Антон Муравьев 👋
+## Аналитик Данных (Junior)
 
-<!--
-**Dadakaa/Dadakaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Развиваюсь в аналитике данных. Интересуюсь продуктовой аналитикой, A/B-тестированием и поиском инсайтов, помогающих бизнесу принимать решения на основе данных. 
 
-Here are some ideas to get you started:
+## Мой Стек
+• SQL (PostgreSQL, MySQL)
+<br>• Python (Pandas, Matplotlib, Seaborn, SQLAlchemy)
+<br>• Power BI (DAX, Power Query)
+<br>• Excel (Сводные таблицы, XLOOKUP, Power Query)
+<br>• A/B-тестирование
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Дополнительные инструменты**
+<br>• Яндекс Директ
+<br>• Яндекс Метрика
+
+## Мои Контакты
+• **Telegram:** https://t.me/antoonmur
+<br>• **Email:** toni.muravev.02@mail.ru
+<br>• **VK:** https://vk.com/krutoiantonchik123
