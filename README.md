@@ -20,6 +20,8 @@
 |---------|---------|---------|---------|
 | Анализ оттока клиентов телеком-компании | [Customer Churn Analysis](https://github.com/Dadakaa/customer_churn_rate_telecom) | Выявление факторов клиентского оттока и разработка рекомендаций по удержанию клиентов | SQL, Python, Power BI |
 | A/B-тест баннера кредитной карты | [Credit Card Banner A/B Test](https://github.com/Dadakaa/ab_test_credit_card_banner) | Дизайн A/B-теста и проверка гипотезы по увеличению конверсии в оформление кредитной карты | Python |
+| ABC-XYZ анализ продаж и ассортимента пиццерии | [ABC-XYZ Pizzeria Analysis](https://github.com/Dadakaa/abc_xyz_pizzeria_analysis) | Проведение ABC-XYZ анализа продаж, выявление наиболее прибыльных и нестабильных позиций меню, разработка рекомендаций по оптимизации ассортимента и снижению складских издержек | SQL, Python |
+
 
 
 ## Мои Контакты
